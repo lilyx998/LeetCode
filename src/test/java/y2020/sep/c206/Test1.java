@@ -7,7 +7,6 @@ public class Test1 {
   @Test
   public void test() {
     System.out.println(aplusb(10, 14));
-
   }
 
   /// you actual code goes below
